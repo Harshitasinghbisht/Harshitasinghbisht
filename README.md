@@ -4,7 +4,7 @@ Hi, I'm Harshita Bisht 👋
 I'm a Full-Stack Developer who loves turning ideas into real-world applications.
 Interested in the things that make me curious.    
 
-💻 I enjoy building scalable web applications and solving backend challenges.  
+💻 I enjoy building scalable web applications and solving backend challenges.   
 🚀 Currently building real-time collaborative platforms and developer tools.  
 🔍 Currently exploring PostgreSQL, Prisma ORM, OpenID Connect (OIDC), and scalable backend architecture.  
 🌱 Currently learning System Design, authentication protocols, and database optimization.  
