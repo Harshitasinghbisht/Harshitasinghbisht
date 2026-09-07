@@ -50,7 +50,7 @@ Interested in the things that make me curious.
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="center"> 
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshitasinghbisht&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
