@@ -50,17 +50,9 @@ Interested in the things that make me curious.
 
 ## 📊 GitHub Stats
 
-<p align="center"> 
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshitasinghbisht&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Harshita's GitHub Stats"
-  />
-</p>
-
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harshitasinghbisht&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitasinghbisht&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
