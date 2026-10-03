@@ -1,14 +1,15 @@
 # About Me:
 
-Hi, I'm Harshita Bisht 👋  
-I'm a Full-Stack Developer who loves turning ideas into real-world applications.
-Interested in the things that make me curious.    
+Hi, I'm Harshita Bisht <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30px">  
+I'm a software developer who enjoys turning ideas into things people can actually use.
 
-💻 I enjoy building scalable web applications and solving backend challenges.   
-🚀 Currently building real-time collaborative platforms and developer tools.  
-🔍 Currently exploring PostgreSQL, Prisma ORM, OpenID Connect (OIDC), and scalable backend architecture.  
-🌱 Currently learning System Design, authentication protocols, and database optimization.  
-💬 Ask me about React, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, or anything related to web development.  
+I like building projects that make me curious enough to keep digging until I understand how everything fits together. A lot of what you'll find here started with a simple "I wonder if I can build this."
+
+I enjoy working on the parts of software that aren't always visible on the screen — the logic, the systems, and all the little pieces that make an application come together.
+
+Outside of coding, I love drawing and making art. It's probably my favorite way to switch off from a screen while still getting to create something from scratch.
+
+I build, I draw, I experiment, and occasionally wonder why I started another project.  
 
 ---
 
